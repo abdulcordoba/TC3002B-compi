@@ -1,0 +1,4 @@
+string x
+int y
+
+if 6 * (x + 5) then y <- 8 ^ 5 fi

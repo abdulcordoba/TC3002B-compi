@@ -1,0 +1,15 @@
+int x
+int y
+int z
+string a
+
+definition int print()
+    return x
+end
+
+definition string procedure ()
+    x <- 6 ^ (9 _ (1+1))
+    return "hola"
+end
+
+a <- procedure()
